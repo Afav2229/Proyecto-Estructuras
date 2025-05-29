@@ -27,7 +27,7 @@ class Grafo:
                 self.grafo = datos.get("grafo", {})
                 self.pesos = {tuple(k.split("-")): v for k, v in datos.get("pesos", {}).items()}
         except (FileNotFoundError, json.JSONDecodeError):
-            print("⚠️ Archivo JSON corrupto o no encontrado. Creando un nuevo archivo...")
+            
             self.inicializar_paradas()
             self.guardar_grafo()
 
