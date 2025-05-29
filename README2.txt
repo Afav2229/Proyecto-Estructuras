@@ -1,7 +1,7 @@
 # Sistema de Optimización de Rutas del Área Metropolitana de Bucaramanga
 
 ## Descripción del Problema
-El área metropolitana de Bucaramanga necesita un sistema eficiente para gestionar y optimizar las rutas de transporte público ya que hoy en dia no es posible poder encontrar un sistema publico el cual permita a los usuarios llegar de manera mas rapida a sus destinos. Este proyecto implementa una solución que permite:
+El área metropolitana de Bucaramanga necesita un sistema eficiente para gestionar y optimizar las rutas de transporte público. Este proyecto implementa una solución que permite:
 - Visualizar las rutas existentes
 - Encontrar caminos óptimos entre paradas
 - Gestionar dinámicamente la red de transporte
@@ -27,11 +27,11 @@ El área metropolitana de Bucaramanga necesita un sistema eficiente para gestion
 [`Proyecto3.py`](Proyecto-Estructuras/Proyecto3.py)
 
 ## Características Principales
--  Gestión dinámica de paradas y conexiones
--  Visualización gráfica de la red de transporte
--  Búsqueda de rutas óptimas (más cortas/más largas)
--  Persistencia de datos en formato JSON
-- Actualizaciones en tiempo real
+- 🚍 Gestión dinámica de paradas y conexiones
+- 🗺️ Visualización gráfica de la red de transporte
+- ⚡ Búsqueda de rutas óptimas (más cortas/más largas)
+- 💾 Persistencia de datos en formato JSON
+- 🔄 Actualizaciones en tiempo real
 
 ## Tecnologías Utilizadas
 - Python 3.x
